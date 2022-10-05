@@ -112,3 +112,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 1. Speech2Face: Learning the Face Behind a Voice (https://arxiv.org/pdf/1905.09773.pdf)
 2. Wav2Pix: Speech-conditioned face generation using generative adversarial networks (https://arxiv.org/pdf/1903.10195.pdf)
 3. AVSpeech Dataset (https://looking-to-listen.github.io/avspeech/download.html)
+
+---------------------------------------------------------------------------------------------------------------------------------------------
+Contact - neeleshverma13@gmail.com for any queries/other things.
