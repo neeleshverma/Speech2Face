@@ -114,4 +114,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 3. AVSpeech Dataset (https://looking-to-listen.github.io/avspeech/download.html)
 
 ---------------------------------------------------------------------------------------------------------------------------------------------
-Contact - neeleshverma13@gmail.com for any queries/other things.
+Contact - neeleshverma13@gmail.com
